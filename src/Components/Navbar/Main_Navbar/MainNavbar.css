@@ -1,0 +1,47 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-navbar {
+  position: absolute;
+  width: 100%;
+  height: 84px;
+  left: 0px;
+  top: 0px;
+  background-color: black;
+}
+.logo {
+  position: absolute;
+  width: 114px;
+  height: 43px;
+  left: 43px;
+  top: 21px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+  color: white;
+}
+.user-name {
+  position: absolute;
+  width: 121px;
+  height: 24px;
+  left: 1133px;
+  top: 30px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: white;
+}
+.user-icon img {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 1279px;
+  top: 20.28px;
+  border-radius: 22px;
+}
